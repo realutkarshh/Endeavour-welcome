@@ -128,7 +128,7 @@ export default function Home() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4 }}
             >
-              Enter you name to know a secret. 🤫
+              Enter your name to know a secret. 🤫
             </motion.p>
             <div className="space-y-4">
               <div>
