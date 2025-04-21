@@ -54,7 +54,7 @@ export default function Home() {
 
   const shareEvent = (platform) => {
     const eventUrl = "https://e-cell.in/endeavour"
-    const secretUrl = "https://endeavour-admin-pannel.vercel.app"
+    const secretUrl = "https://endeavour-welcome.vercel.app"
     const shareMessage = `Hey! Check out this secret message from Team Ecell ${secretUrl}`
 
     let shareUrl = ""
