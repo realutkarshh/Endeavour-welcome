@@ -128,7 +128,7 @@ export default function Home() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4 }}
             >
-              Enter you name to know a secret 🤫
+              Enter you name to know a secret. 🤫
             </motion.p>
             <div className="space-y-4">
               <div>
@@ -148,7 +148,7 @@ export default function Home() {
                     animate={{ opacity: 1, y: 0 }}
                     className="text-red-500 dark:text-red-400 mt-2"
                   >
-                    Please enter your name first
+                    Please enter your name first.
                   </motion.p>
                 )}
               </div>
@@ -219,28 +219,28 @@ export default function Home() {
                 </p>
                 <ul className="mt-2 space-y-1 text-gray-700 dark:text-gray-300">
                   <li>
-                    <span className="font-medium">Treasure Hunt</span> - Race across campus for hidden clues and prizes
+                    <span className="font-medium">Treasure Hunt</span> - Race across campus for hidden clues and prizes.
                   </li>
                   <li>
-                    <span className="font-medium">B-Plan</span> - Pitch your billion-dollar idea (or at least pretend
+                    <span className="font-medium">B-Plan</span> - Pitch your billion-dollar idea. (or at least pretend
                     you have one)
                   </li>
                   <li>
-                    <span className="font-medium">B-Quiz</span> - Show off those business facts you've been hoarding
+                    <span className="font-medium">B-Quiz</span> - Show off those business facts you've been hoarding.
                   </li>
                   <li>
                     <span className="font-medium">Market Watch</span> - Predict market trends better than your finance
-                    professor
+                    professor.
                   </li>
                   <li>
-                    <span className="font-medium">IPL Mania</span> - Cricket + Business = The perfect Indian combo
+                    <span className="font-medium">IPL Mania</span> - Cricket + Business = The perfect Indian combo.
                   </li>
                   <li>
                     <span className="font-medium">Corporate Arena</span> - Suit up and solve real-world business
-                    challenges
+                    challenges.
                   </li>
                   <li className="font-semibold text-purple-600 dark:text-purple-400">
-                    Hacktrepreneur - Our flagship 24-hour hackathon where coding meets entrepreneurship
+                    Hacktrepreneur - Our flagship 18-hour hackathon where coding meets entrepreneurship.
                   </li>
                 </ul>
               </div>
@@ -249,20 +249,20 @@ export default function Home() {
 
               <div className="space-y-3 my-4 text-gray-700 dark:text-gray-300">
                 <p>
-                  ✓ <span className="font-medium">Score attendance credit</span> - Miss classes legitimately (your
+                  ✓ <span className="font-medium">Score attendance credit</span> - Miss classes legitimately. (your
                   professors actually approve!)
                 </p>
                 <p>
                   ✓ <span className="font-medium">Beef up your resume</span> - Add some impressive certificates that
-                  actually mean something
+                  actually mean something.
                 </p>
                 <p>
                   ✓ <span className="font-medium">Free swag</span> - T-shirts, stickers, and other goodies you'll
-                  actually want to keep
+                  actually want to keep.
                 </p>
                 <p>
                   ✓ <span className="font-medium">Meet cool people</span> - Connect with students who share your
-                  interests (and maybe future co-founders?)
+                  interests. (and maybe future co-founders?)
                 </p>
                 
               </div>
@@ -275,11 +275,11 @@ export default function Home() {
                   <li>
                     ✓{" "}
                     <span className="font-bold text-purple-600 dark:text-purple-400">FREE on‑campus accommodation</span>{" "}
-                    - No need to worry about late-night commutes
+                    - No need to worry about late-night commutes.
                   </li>
-                  <li>✓ All‑night coding session</li>
-                  <li>✓ Direct access to mentors from top tech companies</li>
-                  <li>✓ Chance to win bigger prizes and potential startup funding</li>
+                  <li>✓ All‑night coding session.</li>
+                  <li>✓ Direct access to mentors from top tech companies.</li>
+                  <li>✓ Chance to win bigger prizes and potential startup funding.</li>
                 </ul>
               </div>
 
