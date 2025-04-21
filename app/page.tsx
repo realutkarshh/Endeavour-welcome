@@ -293,7 +293,7 @@ export default function Home() {
                 <p className="font-bold text-purple-600 dark:text-purple-400 text-lg">
                   Spots are filling up faster than free pizza at a college event!
                 </p>
-                <p className="text-gray-700 dark:text-gray-300 mt-2">(And yes, we'll have pizza too)</p>
+                {/* <p className="text-gray-700 dark:text-gray-300 mt-2">(And yes, we'll have pizza too)</p> */}
               </div>
 
               <p className="text-gray-700 dark:text-gray-300 font-medium mb-6">
