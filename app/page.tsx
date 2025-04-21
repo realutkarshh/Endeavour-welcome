@@ -54,7 +54,8 @@ export default function Home() {
 
   const shareEvent = (platform) => {
     const eventUrl = "https://e-cell.in/endeavour"
-    const shareMessage = `Hey! Check out ENDEAVOUR by E-Cell! 7 awesome events including an all-night hackathon with free accommodation. Perfect for resume building and meeting cool people. Limited spots available: ${eventUrl}`
+    const secretUrl = "https://endeavour-admin-pannel.vercel.app"
+    const shareMessage = `Hey! Check out this secret message from Team Ecell ${secretUrl}`
 
     let shareUrl = ""
 
@@ -127,7 +128,7 @@ export default function Home() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4 }}
             >
-              We are from team Ecell, please enter your name
+              Enter you name to know a secret 🤫
             </motion.p>
             <div className="space-y-4">
               <div>
@@ -263,9 +264,7 @@ export default function Home() {
                   ✓ <span className="font-medium">Meet cool people</span> - Connect with students who share your
                   interests (and maybe future co-founders?)
                 </p>
-                <p>
-                  ✓ <span className="font-medium">Free food</span> - Because who doesn't love free food?
-                </p>
+                
               </div>
 
               <div className="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg my-6 border-l-4 border-purple-500">
@@ -278,7 +277,7 @@ export default function Home() {
                     <span className="font-bold text-purple-600 dark:text-purple-400">FREE on‑campus accommodation</span>{" "}
                     - No need to worry about late-night commutes
                   </li>
-                  <li>✓ All‑night coding session with unlimited coffee and snacks</li>
+                  <li>✓ All‑night coding session</li>
                   <li>✓ Direct access to mentors from top tech companies</li>
                   <li>✓ Chance to win bigger prizes and potential startup funding</li>
                 </ul>
