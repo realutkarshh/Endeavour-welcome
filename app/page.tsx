@@ -240,7 +240,7 @@ export default function Home() {
                     challenges.
                   </li>
                   <li className="font-semibold text-purple-600 dark:text-purple-400">
-                    Hacktrepreneur - Our flagship 18-hour hackathon where coding meets entrepreneurship.
+                    Hacktrepreneur - Our flagship 18-hour hackathon where you'll get a chance to build your own business model.
                   </li>
                 </ul>
               </div>
@@ -277,8 +277,8 @@ export default function Home() {
                     <span className="font-bold text-purple-600 dark:text-purple-400">FREE on‑campus accommodation</span>{" "}
                     - No need to worry about late-night commutes.
                   </li>
-                  <li>✓ All‑night coding session.</li>
-                  <li>✓ Direct access to mentors from top tech companies.</li>
+                  <li>✓ All‑night crisis management session.</li>
+                  <li>✓ Direct mentorship from Founders and Co-Founders of top companies.</li>
                   <li>✓ Chance to win bigger prizes and potential startup funding.</li>
                 </ul>
               </div>
